@@ -1,4 +1,5 @@
 The University of Texas at El Paso College of Engineering Dept. of Computer Science
+
 CS 2302 : Data Structures 
 
 LAB 1 Summer 2016 Deadline: Wednesday, June 15th, 11:59pm
@@ -23,3 +24,4 @@ whenever A and B are sets. For example, if we assign A = {1,2,3} and B = {2,3,4}
 
 Problem: Create a class named Set that implements all the above set operations along with an appropriate toString() method. Even though, repetition of an element within a set is irrelevant, avoid including an element in a set more than once. Write a report describing your work.
 Data Structures
+
